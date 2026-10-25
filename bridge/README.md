@@ -1,5 +1,7 @@
 # iPhone control bridge
 
+Command reference for the spare-iPhone CLI. Install, the agent setup prompt, safety overview, and Grok Build notes are in the [repository README](../README.md).
+
 Local controller for the spare iPhone through WebDriverAgent. Run it from this directory:
 
 ```bash
